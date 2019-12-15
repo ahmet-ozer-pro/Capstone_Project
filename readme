@@ -1,7 +1,7 @@
 Capstone_Project (Security Issues in IOT)
 
 In this project, I analyzed the security problems that IOT network equipment will face, 
-and introduced the use of machine learning and deep learning methods to protect the Internet of things system through practical application cases. 
+and introduced the use of machine learning and deep learning methods to protect the Internet of things system through practical application cases.
 This method supports the instantiation of security data collection and the deployment of complex application of the Internet of things, 
 which is the basis of effective application security. An analysis algorithm for identifying threats, vulnerabilities, and related attack patterns. 
 A key prerequisite for implementing this approach is to develop scalable infrastructure resources to collect and process security related data sets from IOT systems and devices. 
